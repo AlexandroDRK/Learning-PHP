@@ -6,7 +6,6 @@
 </head>
 
 <body>
-    <h2></h2>
     <?php
     ?>
 </body>
