@@ -6,7 +6,7 @@ Um projeto contendo todos os exercícios desenvolvidos durante o curso de PHP b�
 
 Link para a playlist do curso de PHP: https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k
 
-A contagem da numeração das aulas começa à partir da aula 04 do curso , quando realmente inicia os vídeos de codificação utilizando o PHP.<br>
+A contagem da numeração das aulas começa a partir da aula 04 do curso , quando realmente inicia os vídeos de codificação utilizando o PHP.<br>
 As informações de como utilizar as extensões do Vscode podem ser obtidas lendo a documentação de cada extensão. <br>
 Nenhum estilo CSS foi aplicado, somente  a codificação funcional foi realizada, utilizando dos recursos do HTML  e do PHP.
 
